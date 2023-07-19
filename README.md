@@ -1,7 +1,7 @@
 # Techium
 - ALX frontend specialization project-based webpage focusing on advanced CSS and responsive design.
     
-    - Live Link :: [Go Live]()
+    - Live Link :: [Go Live](https://iamnaeto.github.io/techium/)
     
 ## Author: Charles Obimnaeto Egesionu ##
 
