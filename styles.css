@@ -219,6 +219,10 @@
     display: flex;
   }
   
+  .abt{
+    align-items: center;
+  }
+  
   [class*='col-'] {
     margin: 1rem;
   }
